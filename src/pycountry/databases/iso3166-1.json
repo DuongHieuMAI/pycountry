@@ -293,7 +293,7 @@
     {
       "alpha_2": "CI",
       "alpha_3": "CIV",
-      "name": "Côte d'Ivoire",
+      "name": "Côte d'Ivoire, cote d'ivoire (ivory coast)",
       "numeric": "384",
       "official_name": "Republic of Côte d'Ivoire"
     },
@@ -307,7 +307,7 @@
     {
       "alpha_2": "CD",
       "alpha_3": "COD",
-      "name": "Congo, The Democratic Republic of the",
+      "name": "Congo, The Democratic Republic of the Congo",
       "numeric": "180"
     },
     {
@@ -340,7 +340,7 @@
     {
       "alpha_2": "CV",
       "alpha_3": "CPV",
-      "name": "Cabo Verde",
+      "name": "Cabo Verde, cape verde",
       "numeric": "132",
       "official_name": "Republic of Cabo Verde"
     },
@@ -815,7 +815,7 @@
     {
       "alpha_2": "KR",
       "alpha_3": "KOR",
-      "name": "Korea, Republic of",
+      "name": "South Korea, Republic of Korea",
       "numeric": "410"
     },
     {
@@ -828,7 +828,7 @@
     {
       "alpha_2": "LA",
       "alpha_3": "LAO",
-      "name": "Lao People's Democratic Republic",
+      "name": "Laos, Lao People's Democratic Republic",
       "numeric": "418"
     },
     {
@@ -987,7 +987,7 @@
     {
       "alpha_2": "MM",
       "alpha_3": "MMR",
-      "name": "Myanmar",
+      "name": "Myanmar (burma)",
       "numeric": "104",
       "official_name": "Republic of Myanmar"
     },
@@ -1215,7 +1215,7 @@
     {
       "alpha_2": "KP",
       "alpha_3": "PRK",
-      "name": "Korea, Democratic People's Republic of",
+      "name": "North Korea, Democratic People's Republic of",
       "numeric": "408",
       "official_name": "Democratic People's Republic of Korea"
     },
@@ -1416,7 +1416,7 @@
     {
       "alpha_2": "SZ",
       "alpha_3": "SWZ",
-      "name": "Eswatini",
+      "name": "Eswatini, swaziland",
       "numeric": "748",
       "official_name": "Kingdom of Eswatini"
     },
@@ -1489,7 +1489,7 @@
     {
       "alpha_2": "TL",
       "alpha_3": "TLS",
-      "name": "Timor-Leste",
+      "name": "Timor-Leste, timor-leste (east timor)",
       "numeric": "626",
       "official_name": "Democratic Republic of Timor-Leste"
     },
@@ -1613,7 +1613,7 @@
     {
       "alpha_2": "VI",
       "alpha_3": "VIR",
-      "name": "Virgin Islands, U.S.",
+      "name": "Virgin Islands, US, U.S.",
       "numeric": "850",
       "official_name": "Virgin Islands of the United States"
     },
